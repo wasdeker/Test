@@ -1,3 +1,6 @@
 info: 
     profile: dev
 #hello, if you see that,you work it.
+spring:
+    cloud:
+        name: hi
